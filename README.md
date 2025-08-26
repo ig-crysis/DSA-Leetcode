@@ -1,2 +1,2 @@
-##*🥇 LEETCODE DAILY :_)* 
-##*🥈 FOR COMMIT STREAK :)*
+##*🥇 LEETCODE DAILY :_)* ##<br>
+##*🥈 FOR COMMIT STREAK :)*##
